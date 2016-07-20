@@ -102,7 +102,7 @@ deps = {
   'src/third_party/libaddressinput/src':
     (Var("chromium_git")) + '/external/libaddressinput.git@5eeeb797e79fa01503fcdcbebdc50036fac023ef',
   'src/third_party/libjingle/source/talk':
-    (Var("chromium_git")) + '/external/webrtc/trunk/talk.git@1e41c7e4ffc98360cb9439d5339cfb3dd19f1ace',
+    (Var("chromium_git")) + '/external/webrtc/trunk/talk.git@a526e6eee527a75c55dde693f8ee51cc92e00a74',
   'src/third_party/libjpeg_turbo':
     (Var("chromium_git")) + '/chromium/deps/libjpeg_turbo.git@e4e75037f29745f1546b6ebf5cf532e841c04c2c',
   'src/third_party/libphonenumber/dist':
