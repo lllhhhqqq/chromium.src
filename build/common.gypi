@@ -5709,6 +5709,7 @@
           4510, # Default constructor could not be generated
           4512, # Assignment operator could not be generated
           4610, # Object can never be instantiated
+          4819, # chinese version
           4838, # Narrowing conversion. Doesn't seem to be very useful.
           4995, # 'X': name was marked as #pragma deprecated
           4996, # 'X': was declared deprecated (for GetVersionEx).
