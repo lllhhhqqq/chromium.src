@@ -153,8 +153,8 @@ deps = {
     (Var("chromium_git")) + '/external/khronosgroup/webgl.git@8b636f38a19fa416217ae9882cf8e199f22e44d5',
   'src/third_party/webpagereplay':
     (Var("chromium_git")) + '/external/github.com/chromium/web-page-replay.git@7564939bdf6482d57b9bd5e9c931679f96d8cf75',
-  'src/third_party/webrtc':
-    (Var("chromium_git")) + '/external/webrtc/trunk/webrtc.git@c1d3051480068fef228d6e0bcae3532855ac07ca',
+  #'src/third_party/webrtc':
+  #  (Var("chromium_git")) + '/external/webrtc/trunk/webrtc.git@c1d3051480068fef228d6e0bcae3532855ac07ca',
   'src/third_party/yasm/source/patched-yasm':
     (Var("chromium_git")) + '/chromium/deps/yasm/patched-yasm.git@7da28c6c7c6a1387217352ce02b31754deb54d2a',
   'src/tools/gyp':
